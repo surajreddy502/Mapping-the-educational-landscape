@@ -1,0 +1,433 @@
+College Name,Location,Type,Rating,Courses offered,Fee Start Range,Fee End Range
+Andhra University,"Visakhapatnam, Andhra Pradesh",Public,3.6,34,16 K,14.44 L
+KL University,"Guntur, Andhra Pradesh",Private,3.5,23,1.40 L,15.60 L
+Sri Venkateswara University (SVU),"Tirupati, Andhra Pradesh",Public,3.5,18,8 K,2.71 L
+Aditya Engineering College,"East Godavari, Andhra Pradesh",Private,3.7,5,54 K,2.01 L
+GPREC,"Kurnool, Andhra Pradesh",Private,3.9,3,1.14 L,3.20 L
+CBIT Hyderabad,"Kadapa, Andhra Pradesh",Private,3.8,5,86 K,5.36 L
+"Andhra University College of Engineering, Visakhapatnam","Tadepalligudem, Andhra Pradesh",Public,3.6,0,1.20 L,6.38 L
+"GITAM Institute of Management, Visakhapatnam","Visakhapatnam, Andhra Pradesh",Private,3.1,7,1 L,3.27 L
+St Ann's College for Women,"Visakhapatnam, Andhra Pradesh",Private,3.8,3,1.15 L,1.98 L
+"Bapatla Engineering College, Bapatla Education Society","Guntur, Andhra Pradesh",Autonomous/Private,3.7,6,1.14 L,3.72 L
+VRSEC,"Vijayawada, Andhra Pradesh",Private,3.9,4,11 K,2.67 L
+Gayatri Vidya Parishad College of Engineering,"Visakhapatnam, Andhra Pradesh",Private,3.7,3,1.14 L,3.40 L
+Dayananda Sagar College of Architecture,"Vijayawada, Andhra Pradesh",Private,N/A,3,1.50 L,3.20 L
+Shri Vishnu Engineering College for Women,"Bhimavaram, Andhra Pradesh",Private,4.2,3,80 K,3.73 L
+Madanapalle Institute of Technology and Science,"Madanapalle, Andhra Pradesh",Private,3.5,6,1.03 L,3.04 L
+Sri Vasavi Engineering College,"Tadepalligudem, Andhra Pradesh",Autonomous/Private,3.3,4,45 K,5 L
+IIT Tirupati,"Tirupati, Andhra Pradesh",Autonomous,4.3,4,10 K,1.35 L
+Raghu Engineering College,"Visakhapatnam, Andhra Pradesh",Private,3.1,2,24 K,99 K
+SPA Vijayawada,"Vijayawada, Andhra Pradesh",Public,3.9,4,40 K,5 L
+Indira Priyadarshini Law College,"Prakasam, Andhra Pradesh",Private,N/A,1,28 K,5.20 L
+Dr. Y.S.R. Horticultural University,"Tadepalligudem, Andhra Pradesh",Public,N/A,3,20 K,1.32 L
+Vasireddy Venkatadri Institute of Technology,"Guntur, Andhra Pradesh",Private,3.6,3,15 K,2 L
+Aditya Institute of Technology and Management,"Srikakulam, Andhra Pradesh",Private,3.0,4,6 K,42 K
+KPR Institute of Engineering and Technology,"Eluru, Andhra Pradesh",Private,2.9,3,60 K,3.36 L
+G Pullaiah College of Engineering and Technology,"Kurnool, Andhra Pradesh",Private,4,3,60 K,3.36 L
+Aizza College of Engineering and Technology,"Adilabad, Andhra Pradesh",Private,N/A,2,20 K,11.20 L
+Rajeev Gandhi Memorial College of Engineering and Technology,"Nandyala, Andhra Pradesh",Private,3.2,4,3 K,81 K
+NERIST Itanagar,"Itanagar, Arunachal Pradesh",Public,2.9,4,31 K,1.77 L
+NIT Arunachal Pradesh,"Itanagar, Arunachal Pradesh",Public,N/A,3,30 K,5 L
+Himalayan University Itanagar,"Itanagar, Arunachal Pradesh",Private,3.1,38,70 K,10.80 L
+"Rajiv Gandhi University, [RGU] - Distance Education","Papum Pare, Arunachal Pradesh",Public,N/A,1,48 K,3.82 L
+"National Research Centre on Yak, [NRCY] Dirang","Itanagar, Arunachal Pradesh",Public,N/A,1,1.08 L,4.64 L
+Apex Professional University,"Pasighat, Arunachal Pradesh",Private,N/A,10,43 K,6.90 L
+"National Institute of Technology, [NITAP] Arunachal Pradesh","Papum Pare, Arunachal Pradesh",Public,3.6,5,15 K,8 L
+Arunodaya University,"Itanagar, Arunachal Pradesh",Private,N/A,10,45 K,6.25 L
+Arunachal University,"Lohit, Arunachal Pradesh",Public,N/A,28,10 K,1.68 L
+Dera Natung Government College,"Itanagar, Arunachal Pradesh",Public,2.7,3,15 K,40 K
+Hills College of Teachers Education,"Itanagar, Arunachal Pradesh",Private,N/A,1,72 K,1.80 L
+"Venkateshwara Open University, Pune","Papum Pare, Arunachal Pradesh",Private,N/A,27,9.60 L,
+North East Frontier Technical University,"Along, Arunachal Pradesh",Private,N/A,18,1.20 L,17.30 L
+Rajiv Gandhi University (RGU),"Itanagar, Arunachal Pradesh",Public,4.5,16,56 K,90 K
+"Jawaharlal Nehru College, Pasighat","Pasighat, Arunachal Pradesh",Private,3.5,4,6 K,34 K
+"St Francis Sales College, West Siang","Along, Arunachal Pradesh",Private,N/A,1,3.20 L,
+"Indira Gandhi Technological and Medical Sciences University, Monipoliyang Campus, [IGTAMSU] Ziro","Itanagar, Arunachal Pradesh",Private,N/A,8,27 K,45 K
+The Indira Gandhi Technological and Medical Sciences University,"Itanagar, Arunachal Pradesh",Private,N/A,8,336,88 K
+IIT Guwahati,"Guwahati, Assam",Public,4.1,8,8.75 L,11.91 L
+Gauhati University,"Guwahati, Assam",Public,3.1,16,80 K,3.04 L
+Tezpur University,"Tezpur, Assam",Public,3.8,16,30 K,6.30 L
+NIT Silchar,"Silchar, Assam",Public,3.2,5,60 K,3.40 L
+Royal Global University,"Guwahati, Assam",Private,2.9,41,13 K,9.38 L
+Jorhat Engineering College,"Jorhat, Assam",Public,3.8,2,60 K,2.11 L
+Dakshin Guwahati B.Ed. College,"Guwahati, Assam",Private,N/A,1,15 K,8 L
+"Girijananda Chowdhury Institute of Management and Technology, Guwahati","Guwahati, Assam",Private,3.5,8,60 K,5.67 L
+Guwahati College of Architecture and Planning,"Guwahati, Assam",Private,3.8,2,55 K,3 L
+"Ramniranjan Jhunjhunwala College of Arts, Science and Commerce","Guwahati, Assam",Private,3.9,9,30 K,53 K
+Assam Don Bosco University,"Guwahati, Assam",Private,2.6,11,1.34 L,2.90 L
+Assam Down Town University,"Guwahati, Assam",Private,3.2,29,60 K,4.48 L
+Assam Institute of Management(AIM- Assam),"Guwahati, Assam",Public,N/A,3,25 K,3.16 L
+Sibsagar College,"Sivasagar, Assam",Private,3.8,4,1.29 L,2.79 L
+Moran College,"Sivasagar, Assam",Private,4.4,3,40 K,2.48 L
+"Haji Anfr Ali College, Nagaon","Nagaon, Assam",Private,N/A,2,9 K,2.03 L
+Paschim Guwahati Mahavidyalaya,"Guwahati, Assam",Private,N/A,2,3 K,1 L
+Gauhati Medical College,"Guwahati, Assam",Public,3.9,4,13 K,9 L
+Suren Das College,"Guwahati, Assam",Private,N/A,3,45 K,5 L
+Margherita College,"Tinsukia, Assam",Private,2.9,3,1 L,8 L
+Demow College,"Sivasagar, Assam",Public,N/A,1,4 K,1.32 L
+Dhemaji College,"Dhemaji, Assam",Private,2.5,3,79 K,10.28 L
+Krishna Bora B.Ed. College,"Nagaon, Assam",Private,N/A,1,2 K,20.60 L
+Bengtol College,"Guwahati, Assam",Public,N/A,1,1.05 L,4.84 L
+Sibsagar Girls College,"Sivasagar, Assam",Public,N/A,2,1.20 L,23.23 L
+Ledo College,"Tinsukia, Assam",Private,N/A,1,32 K,23.05 L
+Dibrugarh Hanumanbax Surajmall Kanoi College,"Dibrugarh, Assam",Public,4.0,0,1.23 L,8.04 L
+IIT Patna,"Patna, Bihar",Public,4.2,4,60 K,6.30 L
+Gaya College of Engineering,"Gaya, Bihar",Public,2.7,0,1.30 L,15.68 L
+NIT Patna,"Patna, Bihar",Autonomous/Public,3.2,6,13 K,5.49 L
+Dr. Rajendra Prasad Central Agricultural University,"Samastipur, Bihar",Public,3.6,8,1.80 L,8.57 L
+Loknayak Jai Prakash Institute of Technology,"Chhapra, Bihar",Public,3.5,1,1.20 L,3.86 L
+"National Institute of Fashion Technology, Patna","Patna, Bihar",Public,3.7,3,1.81 L,5.02 L
+Sir J.J College of Architecture,"Gaya, Bihar",Private,3.3,2,1.60 L,
+KS Rangasamy College of Technology,"Samastipur, Bihar",Private,3.2,6,44 K,
+DMI - Development Management Institute,"Patna, Bihar",Public,N/A,0,6.60 L,
+Ram Lakhan Singh Yadav College Patna,"Patna, Bihar",Private,4.2,3,6.92 L,
+IIM BodhGaya,"Gaya, Bihar",Public,4.2,3,90 K,6.53 L
+BIT Patna,"Patna, Bihar",Private,3.5,7,2.32 L,26.50 L
+IIBM - Indian Institute of Business Management,"Patna, Bihar",Private,N/A,4,6.66 L,12.43 L
+"Ram Krishna Dwarika College, Magadh University","Patna, Bihar",Private,N/A,5,4.50 L,
+Dr. Bhanuben Mahendra Nanavati College of Home Science,"Samastipur, Bihar",Private,3.9,4,10.93 L,20.41 L
+AKU,"Patna, Bihar",Public,2.7,7,32 K,5 L
+Bhagalpur College of Engineering,"Bhagalpur, Bihar",Public,3.5,1,3.37 L,7.99 L
+Netaji Subhas Institute of Technology,"Patna, Bihar",Private,3.5,1,1.40 L,2.10 L
+SNM Institute of Management and Technology,"Madhubani, Bihar",Private,N/A,1,46 K,6.04 L
+R.P. Sharma Institute of Technology,"Patna, Bihar",Private,N/A,2,1.20 L,8.80 L
+VIBRM - Vaishali Institute of Business and Rural Management,"Muzaffarpur, Bihar",Private,3,5,720,2.20 L
+"College of Commerce, Arts and Science, Magadh University","Patna, Bihar",Public,3.2,10,60 K,5 L
+Darbhanga College Of Engineering,"Darbhanga, Bihar",Private,2.9,1,1.70 L,3.60 L
+"Government Medical College, Surat","Bettiah, Bihar",Public,3.8,4,3.40 L,10.40 L
+NMCH Patna,"Patna, Bihar",Public,4.1,3,75 K,4 L
+IGIMS Patna,"Patna, Bihar",Public,3.5,4,6.27 L,11.94 L
+Magadh Mahila College,"Patna, Bihar",Private,2.7,8,1.06 L,25 L
+IIM Raipur,"Raipur, Chhattisgarh",Autonomous/Public,4.4,2,3.75 L,14.60 L
+"Rungta College of Engineering and Technology, Bhilai","Bhilai, Chhattisgarh",Private,4.5,5,20 K,7 L
+NIT Raipur,"Raipur, Chhattisgarh",Public,3.6,5,1.06 L,4.56 L
+"Intl IIT, Naya Raipur","Raipur, Chhattisgarh",Public,N/A,2,50 K,3.57 L
+"ITM University, Raipur","Raipur, Chhattisgarh",Private,4.1,11,8 L,13.50 L
+MATS University,"Raipur, Chhattisgarh",Private,2.9,29,30 K,72 K
+Bhilai Institute of Technology,"Durg, Chhattisgarh",Private,3.2,7,30 K,4.36 L
+IIT Bhilai,"Bhilai, Chhattisgarh",Public,5,4,1.17 L,1.50 L
+"The ICFAI University, Jaipur","Durg, Chhattisgarh",Private,4.8,14,90 K,22.73 L
+St. Xavier's College Ranchi,"Bilaspur, Chhattisgarh",Private,3.1,9,3.60 L,
+HNLU Raipur - Hidayatullah National Law University,"Raipur, Chhattisgarh",Public,2.8,3,88 K,5.64 L
+Central Institute of Technology,"Raipur, Chhattisgarh",Private,3.2,1,7.20 L,
+SSITM Bhilai,"Raipur, Chhattisgarh",Private,3.5,4,60 K,5.40 L
+Shaheed Gundadhur College of Agriculture and Research Station,"Raipur, Chhattisgarh",Public,N/A,1,77 K,8.82 L
+Pragati Engineering College,"Raipur, Chhattisgarh",Private,3.1,3,1.20 L,17.30 L
+OPJU Raigarh,"Raigarh, Chhattisgarh",Private,N/A,7,3 L,6.72 L
+RITEE Group of Institutes,"Raipur, Chhattisgarh",Private,4.2,12,6 L,16.10 L
+Pragati College of Engineering and Management,"Raipur, Chhattisgarh",Private,3.4,1,30 K,5 L
+AITM Rajnandgaon,"Rajnandangoan, Chhattisgarh",Private,N/A,1,26.57 L,
+Shri Shankaracharya Institute of Engineering and Technology,"Durg, Chhattisgarh",Private,3.1,3,30 K,68 K
+"Government Engineering College, Bilaspur","Bilaspur, Chhattisgarh",Public,2.9,2,4 K,1.38 L
+"The ICFAI University, Raipur","Raipur, Chhattisgarh",Private,N/A,11,24 K,5.55 L
+"Bharti College, Durg","Durg, Chhattisgarh",Private,3.3,4,1.72 L,
+Garv Institute of Management and Technology,"Durg, Chhattisgarh",Private,N/A,2,1.50 L,10.20 L
+"Dr. C.V. Raman University, Chhatisgarh, Bilaspur","Bilaspur, Chhattisgarh",Private,4.9,25,1.02 L,3.52 L
+PRSU,"Raipur, Chhattisgarh",Public,2.8,24,1.51 L,3.58 L
+Shri Rawatpura Sarkar University,"Raipur, Chhattisgarh",Private,4.6,29,1 K,6 K
+Columbia Group of Institutions,"Raipur, Chhattisgarh",Private,4.5,4,1.20 L,4.80 L
+Goa Institute of Management,"North Goa, Goa",Private,4.1,0,60 K,7.65 L
+NIT Goa,"South Goa, Goa",Public,3.7,3,75 K,
+V.M. Salgaocar College of Law,"Panaji, Goa",,N/A,2,1.05 L,48.36 L
+Goa College of Pharmacy,"Panaji, Goa",Public,3.5,2,30 K,5 L
+Goa College of Architecture,"Panaji, Goa",Public,N/A,1,3 K,1.82 L
+Dhempe College of Arts and Science,"Panaji, Goa",Private,3.1,2,1.56 L,7.38 L
+VVM's Govind Ramnath Kare College of Law (VVM GRK),"South Goa, Goa",Private,N/A,3,75 K,16 L
+Padre Conceicao College of Engineering,"South Goa, Goa",Private,2.9,2,1.23 L,73.59 L
+Sri Sri Institute of Management Studies,"South Goa, Goa",Private,N/A,2,1.13 L,5 L
+IHM Goa,"Panaji, Goa",Public,N/A,2,79 K,16.20 L
+IIT Goa,"South Goa, Goa",Public,2.5,3,12.90 L,
+Dnyanprassarak Mandal's College and Research Centre,"North Goa, Goa",Private,4.8,5,1.40 L,3.10 L
+Rosary College of Commerce and Arts,"North Goa, Goa",Private,N/A,5,21 K,1.29 L
+Shree Rayeshwar Institute of Engineering and Information Technology,"North Goa, Goa",Private,N/A,1,5.38 L,20.42 L
+Saraswat Vidyalayas Sridora Caculo College of Commerce and Management Studies,"North Goa, Goa",Private,N/A,2,1.53 L,7.60 L
+St. Xavier's College - Goa,"North Goa, Goa",Private,3.3,7,1.60 L,6 L
+ICAR-Central Coastal Agricultural Research Institute - [CCARI] Goa,"North Goa, Goa",Public,N/A,1,1.50 L,
+Ann Institute of Hotel Management and Catering Technology,"North Goa, Goa",Private,N/A,3,4.90 L,7.45 L
+Shree Damodar College of Commerce & Economics,"South Goa, Goa",Public,3.5,4,7.50 L,
+"Goa College of Engineering, North Goa","North Goa, Goa",Public,3.2,3,1.40 L,5.20 L
+Parvatibai Chowgule College Of Arts & Science,"South Goa, Goa",Private,3.3,3,86 K,3 L
+"Goa Dental College And Hospital, Goa","North Goa, Goa",Public,N/A,0,5 L,19.68 L
+"JD Institute of Fashion Technology, Goa","Panaji, Goa",Public,N/A,1,5.11 L,8.60 L
+"National Centre for Antarctic and Ocean Research, South Goa","South Goa, Goa",Public,N/A,2,45 K,56 K
+Carmel College for Women,"South Goa, Goa",Private,4,5,1.11 L,11.08 L
+DPM's Shree Mallikarjun College of Arts and Commerce,"South Goa, Goa",Private,N/A,2,1.40 L,2.24 L
+Goa Medical College,"North Goa, Goa",Public,4.7,3,540,1.08 L
+IIT Gandhinagar,"Gandhinagar, Gujarat",Public,3.9,6,7 K,2.16 L
+Gujarat University,"Ahmedabad, Gujarat",Public,3.5,37,2 K,1.41 L
+SVNIT Surat,"Surat, Gujarat",Public,4.0,4,30 K,3.67 L
+IIM Ahmedabad,"Ahmedabad, Gujarat",Public,4,4,9.50 L,18.82 L
+Parul University,"Vadodara, Gujarat",Private,3.6,41,6.50 L,
+"Adani Institute of Digital Technology Management, (AIDTM) Gandhinagar","Gandhinagar, Gujarat",Private,N/A,0,20 K,20 K
+Institute of Technology Nirma University,"Ahmedabad, Gujarat",Private,3.9,13,50 K,1.57 L
+Dhirubhai Ambani Institute of Information and Communication Technology,"Gandhinagar, Gujarat",Private,4.3,5,5 K,50 K
+IRMA Anand,"Anand, Gujarat",Public,4.5,0,12 K,1.50 L
+Nirma University,"Ahmedabad, Gujarat",Private,2.4,16,90 K,1.30 L
+MSU Baroda,"Vadodara, Gujarat",Public,3.2,32,51.17 L,90 L
+IMNU Ahmedabad,"Ahmedabad, Gujarat",Private,3.9,3,33 K,
+GNLU,"Gandhinagar, Gujarat",Public,3.1,9,1.01 L,9.63 L
+SAL Education,"Ahmedabad, Gujarat",Private,3.7,2,1.20 L,3.34 L
+L. M. College of Pharmacy,"Ahmedabad, Gujarat",Public,N/A,3,1 L,2.20 L
+Sardar Patel Institute of Technology,"Anand, Gujarat",Private,3.9,4,1.02 L,3.04 L
+IIHM Ahmedabad,"Ahmedabad, Gujarat",Private,N/A,2,18.99 L,
+NIFT Gandhinagar,"Gandhinagar, Gujarat",Public,4.0,5,45 K,6.25 L
+Anand Agricultural University,"Anand, Gujarat",Public,N/A,1,90 K,4.05 L
+"Institute of Law, Nirma University","Ahmedabad, Gujarat",Private,3.2,2,1.75 L,
+S.V. Institute of Management,"Kadi, Gujarat",Private,N/A,1,1.10 L,2.37 L
+A. D. Patel Institute of Technology,"Anand, Gujarat",Private,3.6,2,93 K,1.60 L
+Sarvajanik College of Engineering and Technology,"Surat, Gujarat",Private,3.7,5,30 K,12.50 L
+Adani Institute of Infrastructure Engineering,"Ahmedabad, Gujarat",Private,3.8,1,1.24 L,5.11 L
+Ahmedabad University,"Ahmedabad, Gujarat",Public,3.7,11,56 K,2.16 L
+V. T. Choksi Sarvajanik Law College,"Surat, Gujarat",Private,N/A,0,1.10 L,6.72 L
+CHARUSAT,"Anand, Gujarat",Public,3.8,14,28.18 L,43.35 L
+Geethanjali College of Engineering and Technology,"Rajkot, Gujarat",Private,3.9,3,8 K,1 L
+Vivekanand Education Society’s Institute of Technology,"Surat, Gujarat",Private,3.8,4,1.32 L,
+MDI Gurgaon,"Gurgaon, Haryana",Private,4.3,0,30 K,83 K
+MRIIRS,"Faridabad, Haryana",Private,3.4,19,23 K,2.40 L
+IIM Rohtak,"Rohtak, Haryana",Public,4.0,4,20 K,36 L
+The NorthCap University,"Gurgaon, Haryana",Private,4.0,1,2 K,1.78 L
+Pearl Academy Delhi,"New Delhi, Delhi NCR",Private,4.1,2,1.26 L,
+NIT Kurukshetra,"Kurukshetra, Haryana",Public,3.7,5,1 L,3.33 L
+JK Business School,"Gurgaon, Haryana",Private,3.2,2,1.20 L,17 L
+"Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies","Faridabad, Haryana",Private,4.5,4,45 K,6.25 L
+"Geeta Institute of Law, Panipat","Panipat, Haryana",Private,4.6,4,1.32 L,13 L
+Maharishi Markandeshwar University,"Ambala, Haryana",Private,3.1,22,29 K,12.30 L
+"BIMT, Gurgaon","Gurgaon, Haryana",Private,2.7,2,2 L,25.15 L
+School of Art and Architecture,"Gurgaon, Haryana",Private,3.7,4,2 K,2.70 L
+IILM Institute for Business and Management,"Gurgaon, Haryana",Private,4.7,0,1.80 L,88.16 L
+National Institute of Financial Management,"Faridabad, Haryana",Public,N/A,1,9.95 L,13 L
+SRM University Sonepat,"Sonipat, Haryana",Private,3.9,15,1.02 L,3.05 L
+MDU,"Rohtak, Haryana",Public,3.0,27,4.77 L,14 L
+KITM - Kurukshetra Institute of Technology and Management,"Kurukshetra, Haryana",Private,3.2,3,6.91 L,19.53 L
+GD Goenka University,"Gurgaon, Haryana",Private,3.7,41,1.34 L,1.53 L
+Global Institute of Technology and Management,"Gurgaon, Haryana",Private,3.2,6,15.64 L,
+IBMR Group of Institutions,"Gurgaon, Haryana",Private,4.2,4,7.45 L,7.45 L
+Apeejay Stya University,"Gurgaon, Haryana",Private,3.3,14,8.70 L,
+Jindal Global Business School,"Sonipat, Haryana",Private,4.5,3,53 K,4.20 L
+"Jind Institute of Engineering and Technology (JIET, Jind)","Jind, Haryana",Private,N/A,1,1.40 L,6.09 L
+"Great Lakes Institute of Management, Gurgaon","Gurgaon, Haryana",Private,4.2,4,14.69 L,
+Jan Nayak Ch. Devi Lal Memorial College Of Engineering (JCDCOE),"Sirsa, Haryana",Private,4.2,2,1.20 L,17 L
+Manav Rachna University (MRU),"Faridabad, Haryana",Private,3.4,24,1.73 L,3.82 L
+Tilak Raj Chadha Institute of Management and Technology,"Yamuna Nagar, Haryana",Private,N/A,4,5.92 L,21.22 L
+BML Munjal University,"Gurgaon, Haryana",Private,4.0,8,30 K,5 L
+IIT Mandi,"Mandi, Himachal Pradesh",Public,3.5,7,19 K,
+Baddi University,"Baddi, Himachal Pradesh",Private,3.5,11,30 K,7.15 L
+St. Bede's College,"Shimla, Himachal Pradesh",Public,3.3,6,3 K,3 K
+Shoolini University,"Solan, Himachal Pradesh",Private,3.9,18,2 K,1.20 L
+IHM Shimla,"Shimla, Himachal Pradesh",Public,5,1,24 K,4.81 L
+IEC University,"Solan, Himachal Pradesh",Private,3.3,14,12.68 L,30 L
+IIM Sirmaur,"Paonta Sahib, Himachal Pradesh",Public,N/A,3,1.20 L,2 L
+Dr. Yashwant Singh Parmar University of Horticulture and Forestry - YSPU,"Solan, Himachal Pradesh",Public,2.7,4,72 K,3.27 L
+Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya,"Palampur, Himachal Pradesh",Public,2.5,7,30 K,2.55 L
+Maharaja Agrasen University,"Solan, Himachal Pradesh",Private,4,18,2.37 L,9.20 L
+"Himalayan Group of Professional Institutions, Sirmour","Sirmaur, Himachal Pradesh",Private,3.8,2,60 K,4.86 L
+Eternal University,"Sirmaur, Himachal Pradesh",Private,N/A,14,64 K,3.67 L
+Jaypee University of Information Technology (JUIT),"Solan, Himachal Pradesh",Private,3.2,4,30 K,56 K
+Sardarkrushinagar Dantiwada Agricultural University,"Palampur, Himachal Pradesh",Public,4.0,4,1.40 L,5 L
+MMU Solan,"Solan, Himachal Pradesh",Private,3.4,6,4 K,56 K
+Arni University,"Kangra, Himachal Pradesh",Private,3.9,14,15 K,5 L
+"University Institute of Information Technology, Himachal Pradesh University","Shimla, Himachal Pradesh",Private,3.6,1,1.05 L,88.20 L
+Alakh Prakash Goyal Shimla University,"Shimla, Himachal Pradesh",Private,4.1,18,2 L,83.25 L
+L.R. Group of Institutes,"Solan, Himachal Pradesh",Private,2.7,2,30 K,6.25 L
+"Chitkara University, Solan","Solan, Himachal Pradesh",,4.3,4,90 K,7.91 L
+T. R. Abhilashi Memorial Institute of Engineering and Technology,"Mandi, Himachal Pradesh",Private,3.5,2,2.50 L,15.12 L
+IIIT Una,"Una, Himachal Pradesh",Public,N/A,1,2.50 L,11.25 L
+International Centre For Distance Education And Open Learning,"Shimla, Himachal Pradesh",Public,N/A,10,80 K,4.76 L
+Bahra University,"Solan, Himachal Pradesh",Private,N/A,25,1.36 L,4.89 L
+Sri Sai University,"Palampur, Himachal Pradesh",Private,3.5,14,2.40 L,4.99 L
+BIMT - Bells Institute of Management & Technology,"Shimla, Himachal Pradesh",Private,3,5,9 K,2.54 L
+CUHP,"Dharamsala, Himachal Pradesh",Public,4,0,45 K,8.40 L
+IIT (ISM) Dhanbad,"Dhanbad, Jharkhand",Public,3.9,5,2 L,10 L
+BIT Mesra,"Ranchi, Jharkhand",Private,3.8,13,67 K,
+Xavier Institute of Social Service,"Ranchi, Jharkhand",Private,5,1,2.16 L,
+IIM Ranchi,"Ranchi, Jharkhand",Public/Government,4.2,4,37 K,1.21 L
+NIT Jamshedpur,"Jamshedpur, Jharkhand",Public,3.8,5,5.62 L,
+BIT Sindri,"Dhanbad, Jharkhand",Public,3.9,4,5.50 L,12.75 L
+XLRI Jamshedpur,"Jamshedpur, Jharkhand",Private,4.3,2,1.80 L,
+BAU - Birsa Agricultural University,"Ranchi, Jharkhand",Private,2.7,7,15 K,8.58 L
+Maulana Azad College,"Ranchi, Jharkhand",Public,3.0,5,7 K,14.74 L
+National Institute of Foundry and Forge Technology,"Ranchi, Jharkhand",Public,3.1,2,1.20 L,
+"St. Xavier's College, Ahmedabad","Ranchi, Jharkhand",Private,3.8,7,50 K,14.83 L
+Central University of Jharkhand,"Ranchi, Jharkhand",Private,2.8,4,1 L,12 L
+Sarala Birla University,"Ranchi, Jharkhand",Private,3.5,10,1.60 L,12.48 L
+Ranchi Women's College,"Ranchi, Jharkhand",,3.5,8,1.60 L,12.48 L
+Central Institute of Psychiatry (CIP) - Jharkhand,"Ranchi, Jharkhand",Public,N/A,3,23 K,5.16 L
+Sai Nath University,"Ranchi, Jharkhand",Private,4.5,20,1 L,12 L
+IIIT Ranchi,"Jamshedpur, Jharkhand",Public,4.3,3,27 K,6.29 L
+"The ICFAI University, Jharkhand","Ranchi, Jharkhand",Private,4.1,10,81 K,
+ISM - Institute of Science and Management,"Ranchi, Jharkhand",Public,3.2,1,1.28 L,10.53 L
+R.V.S College of Engineering and Technology - RVSCET,"Jamshedpur, Jharkhand",Private,3.2,5,83 K,2.33 L
+KIMDS - Kejriwal Institute of Management and Development Studies,"Ranchi, Jharkhand",Private,N/A,2,2.40 L,7.82 L
+Ranchi University,"Ranchi, Jharkhand",Public,3.2,26,28 K,2.55 L
+Jharkhand Rai University,"Ranchi, Jharkhand",Private,3.5,13,93 K,3 L
+"Sindri College, Sindri","Dhanbad, Jharkhand",Private,N/A,3,15 K,3.10 L
+Nilamber Pitambar University,"Palamu, Jharkhand",Public,4.0,3,2.94 L,19.60 L
+Usha Martin University,"Dhanbad, Jharkhand",Private,4.1,19,30 K,5 L
+Ramgovind Institute of Technology,"Koderma, Jharkhand",Private,N/A,1,18.06 L,
+IISc Bangalore,"Bangalore, Karnataka",Public,4.1,6,77 K,6 L
+Manipal Academy of Higher Education (Manipal University),"Udupi, Karnataka",Private,3.1,39,1.30 L,9.89 L
+NIT Surathkal,"Mangalore, Karnataka",Public,4.0,6,1.21 L,1.82 L
+Mysore University,"Mysore, Karnataka",Public,3.6,20,1.65 L,13.80 L
+Pearl Academy Bangalore,"Bangalore, Karnataka",Private,N/A,4,2 L,
+RV University,"Bangalore, Karnataka",Private,4.9,15,1.57 L,3.72 L
+JSS Academy of Higher Education and Research,"Mysore, Karnataka",Private,4.2,18,26 K,8 L
+BMS College of Engineering (BMSCE),"Bangalore, Karnataka",Private,3.3,6,28 K,5.40 L
+Christ University,"Bangalore, Karnataka",Private,4,22,2.99 L,
+XIME Bangalore,"Bangalore, Karnataka",Private,3.5,1,1 K,28 K
+"Rai Technology University, [RTU] Bangalore","Bangalore, Karnataka",Private,3.1,10,37 K,3 L
+Ramaiah Institute of Technology,"Bangalore, Karnataka",Private,4.0,8,77 K,6 L
+Nitte Meenakshi Institute of Technology,"Bangalore, Karnataka",Private,3.9,5,4.98 L,
+KJC,"Bangalore, Karnataka",Private,4.0,12,1.95 L,4.96 L
+AIMS Bangalore,"Bangalore, Karnataka",Private,3.8,8,2.03 L,12.53 L
+"SJC, Bangalore","Bangalore, Karnataka",Private,3.9,13,75 K,76.15 L
+"KIAMS - Kirloskar Institute of Advanced Management Studies, Harihar","Harihar, Karnataka",Private,4.4,0,30 K,5 L
+RV Institute of Management,"Bangalore, Karnataka",Private,3.8,1,1.20 L,3 L
+ISME Bangalore,"Bangalore, Karnataka",Private,3.4,4,90 K,3 L
+St. Joseph's Institute of Management,"Bangalore, Karnataka",Private,N/A,1,75 K,98 K
+The Oxford College of Engineering,"Bangalore, Karnataka",Private,3.4,5,80 K,1.10 L
+Welingkar Bangalore,"Bangalore, Karnataka",Private,3.7,0,6 K,8 L
+MCC Bangalore,"Bangalore, Karnataka",Private,4.0,12,90 K,16.33 L
+IIIT Bangalore,"Bangalore, Karnataka",Private,3.4,4,5.25 L,14.25 L
+SIBM Bangalore,"Bangalore, Karnataka",Private,4,2,6 K,73 K
+"NMIMS, Bangalore","Bangalore, Karnataka",Private,4.1,4,30 K,6.25 L
+Siddaganga Institute of Technology,"Tumkur, Karnataka",Public,3.6,8,51 K,4.35 L
+Shri Dharmasthala Manjunatheshwara Institute for Management Development,"Mysore, Karnataka",Private,3.8,5,80 K,6 L
+PES College of Engineering,"Mandya, Karnataka",Private,3.4,6,3 K,68 K
+Ramaiah Institute of Management - MSRIM,"Bangalore, Karnataka",Private,3.9,0,1 L,79.50 L
+Kerala University,"Thiruvananthapuram, Kerala",Public,3.5,38,60 K,1.17 Cr
+MG University (MGU),"Kottayam, Kerala",Public,3.5,22,4 K,32 K
+CUSAT,"Kochi, Kerala",Public,3.8,18,68 K,22.50 L
+Calicut University,"Calicut, Kerala",Public,3.0,30,45 K,6 L
+NIT Calicut,"Calicut, Kerala",Public,3.7,8,40 K,8.75 L
+IIM Kozhikode,"Kozhikode, Kerala",Public,4.3,3,75 K,1.10 Cr
+Rajagiri Business School,"Kochi, Kerala",Private,3.6,2,6 K,1.14 L
+SCMS Cochin School of Business,"Cochin, Kerala",Private,N/A,1,6.75 L,14.63 L
+RSET - Rajagiri School of Engineering and Technology,"Kochi, Kerala",Private,3.6,2,7 K,4.80 L
+IIST Trivandrum,"Thiruvananthapuram, Kerala",Public,4.0,3,25 K,75 K
+Sree Chitra Thirunal College of Engineering,"Thiruvananthapuram, Kerala",Public,3.9,3,8 K,2.18 L
+SCMS School of Engineering and Technology,"Cochin, Kerala",Private,3.7,3,1.20 L,15.50 L
+Saintgits Institute of Management,"Kottayam, Kerala",Private,4.2,2,7 K,1.71 L
+ST.Berchmans Institute of Management Studies (BIMS Kerela),"Kottayam, Kerala",Public,N/A,14,29 K,1.16 L
+St. Albert's College,"Ernakulam, Kerala",Private,N/A,11,50 K,2 L
+College of Engineering Trivandrum,"Thiruvananthapuram, Kerala",Public,4.2,6,1 L,2.50 L
+St. Berchmans College,"Kottayam, Kerala",Public,3.8,13,50 K,5.98 L
+Newman College,"Thodupuzha, Kerala",Public,N/A,7,20 K,1.24 L
+FISAT - Federal Institute of Science and Technology,"Ernakulam, Kerala",Private,3.2,4,15 K,9.60 L
+MEC Kochi - Government Model Engineering College,"Kochi, Kerala",Public,N/A,2,5 K,3.74 L
+Amrita Center for Allied Health Science,"Kochi, Kerala",Private,3.6,5,30 K,5 L
+XIME Kochi,"Kochi, Kerala",Private,4.2,0,2 K,3.45 L
+BMC - Bharata Mata College,"Kochi, Kerala",Private,3.6,8,1 L,11.40 L
+"College of Engineering, Pathanapuram","Pathanapuram, Kerala",Public,N/A,1,16.06 L,
+"MES College, Marampally","Aluva, Kerala",Private,2.7,0,33.69 L,
+NLU Kochi (NUALS),"Kochi, Kerala",Public,N/A,1,1.71 L,12 L
+"School of Communication and Management Studies, [SCMS] Cochin","Cochin, Kerala",Private,N/A,1,1.40 L,3.60 L
+IIT Indore,"Indore, Madhya Pradesh",Public,3.8,4,2.60 L,5.24 L
+IISER Bhopal,"Bhopal, Madhya Pradesh",Public Autonomous,4.4,3,4.80 L,12.50 L
+IES College of Technology,"Bhopal, Madhya Pradesh",Private,2.8,4,1.20 L,3.20 L
+Sagar Institute of Research and Technology,"Bhopal, Madhya Pradesh",Private,3.3,6,11.05 L,18.90 L
+IIM Indore,"Indore, Madhya Pradesh",Public,4.1,3,20 K,9.17 L
+NIT Bhopal,"Bhopal, Madhya Pradesh",Public,3.2,9,60 K,3.40 L
+Prestige Institute of Management and Research (UG & PG Campus),"Indore, Madhya Pradesh",Private,3.7,9,56 K,6 L
+IIFM Bhopal,"Bhopal, Madhya Pradesh",Public,4.6,3,30 K,5 L
+"Prestige Institute of Management, Gwalior","Gwalior, Madhya Pradesh",Private,3.8,8,23 K,
+Prestige Institute of Management Dewas,"Dewas, Madhya Pradesh",Private,3,5,1.45 L,
+B.S. Abdur Rahman Crescent Institute of Science and Technology,"Bhopal, Madhya Pradesh",Private,3.5,15,30 K,
+Jaipuria Institute of Management Indore,"Indore, Madhya Pradesh",Private,4.2,0,8 L,
+Vaikunth Mehta National Institute of Cooperative Management,"Bhopal, Madhya Pradesh",Private,4.4,0,8 L,
+LNCT Bhopal,"Bhopal, Madhya Pradesh",Private,3.5,4,12 K,10 L
+IIITDM Jabalpur,"Jabalpur, Madhya Pradesh",Public,3.7,5,500,1.20 L
+Shri Vaishnav Institute of Management,"Indore, Madhya Pradesh",Private,3.4,6,15 K,13.47 L
+Jagran Lakecity University,"Bhopal, Madhya Pradesh",Private,4,20,40 K,4 L
+Institute of Engineering and Science IPS Academy,"Indore, Madhya Pradesh",Private,3.3,1,1.96 L,20.95 L
+G S College of Commerce and Economics,"Jabalpur, Madhya Pradesh",Private,3.6,3,72 K,1.17 L
+"IHM Gwalior - Institute of Hotel Management, Catering Technology & Applied Nutrition","Gwalior, Madhya Pradesh",Public,4.5,1,48 K,4.36 L
+Sri Aurobindo Institute of Medical Sciences,"Indore, Madhya Pradesh",Private,3.9,5,1.26 L,5 L
+IGNTU - Indira Gandhi National Tribal University,"Anuppur, Madhya Pradesh",Public,3.6,18,1.62 L,6.86 L
+Indian Institute of Tourism and Travel Management (Gwalior),"Gwalior, Madhya Pradesh",Public,4,1,2.10 L,14.66 L
+"Patel College of Science and Technology, [PCST] Bhopal","Bhopal, Madhya Pradesh",Private,2.8,5,4.35 L,8.40 L
+Indore Institute of Law,"Indore, Madhya Pradesh",Private,N/A,4,2.08 L,4.16 L
+Jawaharlal Nehru Krishi Vishwavidyalaya,"Jabalpur, Madhya Pradesh",Public,3.4,6,10.22 L,
+Indore Professional Studies Academy,"Indore, Madhya Pradesh",Private,3.3,27,1.43 L,3 L
+IIT Bombay,"Mumbai, Maharashtra",Public,4.3,13,4.47 L,15 L
+UniPune (SPPU),"Pune, Maharashtra",Public,3.3,32,1 L,
+IISER Pune,"Pune, Maharashtra",Public,4.0,3,2.19 L,4.37 L
+ICT Mumbai,"Mumbai, Maharashtra",Public,3.8,8,2.40 L,6.24 L
+MIT-WPU,"Pune, Maharashtra",Private,3.7,25,36 K,7.10 L
+"Homi Bhabha National Institute, [HBNI] Mumbai","Mumbai, Maharashtra",Public,N/A,5,7.50 L,11.90 L
+VNIT Nagpur,"Nagpur, Maharashtra",Public,3.7,5,12 K,8 L
+SIU Pune,"Pune, Maharashtra",Private,4.0,19,90 K,5.60 L
+TISS Mumbai,"Mumbai, Maharashtra",Private,3.5,13,18.87 L,
+"Dr. D.Y. Patil Vidyapeeth, Pune","Pune, Maharashtra",Public,2.6,14,1.22 L,5.87 L
+NMIMS Mumbai,"Mumbai, Maharashtra",Private,3.8,17,2.58 L,22.86 L
+Mumbai University,"Mumbai, Maharashtra",Public,3.6,43,11.70 L,18.48 L
+Datta Meghe Institute of Medical Sciences,"Nagpur, Maharashtra",Private,3.9,10,2.58 L,22.86 L
+SIMC Pune,"Pune, Maharashtra",Private,4.1,2,2.38 L,12.30 L
+JBIMS Mumbai,"Mumbai, Maharashtra",Private,3.9,7,1.21 L,
+Welingkar Mumbai,"Mumbai, Maharashtra",Private,3.8,4,90 K,7.60 L
+K J Somaiya Institute of Management,"Mumbai, Maharashtra",Private,3.7,3,1.83 L,5.51 L
+SIMSREE-Sydenham,"Mumbai, Maharashtra",Private,4.6,5,1.40 L,6.20 L
+SIDTM,"Pune, Maharashtra",Private,4.5,1,8 K,11 L
+Pune Institute of Business Management,"Pune, Maharashtra",Private,4,1,1.02 L,4.26 L
+NL Dalmia Institute,"Mumbai, Maharashtra",Private,N/A,4,1.26 L,3.59 L
+NITIE Mumbai,"Mumbai, Maharashtra",Public/Government,4.4,3,1.05 L,12.50 L
+VIT Pune,"Pune, Maharashtra",Private,3.8,3,2.11 L,2.54 L
+SIIB Pune,"Pune, Maharashtra",Private,4.0,1,84 K,1.13 L
+Kishinchand Chellaram College,"Mumbai, Maharashtra",Private,4.1,8,81 K,12.35 L
+MIT-WPU,"Pune, Maharashtra",Private,3.7,25,50 K,75 K
+Pimpri Chinchwad College of Engineering,"Pune, Maharashtra",Private,3.9,4,1.20 L,2 L
+SCMHRD Pune,"Pune, Maharashtra",Private,3.8,2,21.27 L,
+NIT Manipur,"Imphal, Manipur",Public,3.3,4,12 K,20 L
+Sangai International University,"Churachandpur, Manipur",Private,N/A,4,2 K,1.60 L
+CAU - Central Agricultural University,"Imphal, Manipur",Public,3,6,5 K,2 L
+Kakching Khunou College,"Thoubal, Manipur",Private,N/A,3,73 K,80 K
+Waikhom Mani Girls College,"Thoubal, Manipur",Private,N/A,3,60 K,5 L
+RIMS Imphal,"Imphal, Manipur",Public,3.2,5,30 K,5 L
+Manipur Institute of Technology,"Imphal, Manipur",Private,2.7,1,13.50 L,31 L
+R K Sanatombi Devi College,"Imphal, Manipur",Private,N/A,2,88 K,7.80 L
+"Manipur Institute of Management Studies (MIMS), Manipur University","Imphal, Manipur",Private,N/A,1,3 L,6 L
+Mt. Everest College,"Imphal, Manipur",Private,N/A,0,1.20 L,9.90 L
+Western College of Commerce and Business Management,"Imphal, Manipur",Private,1.2,3,2.17 L,10.80 L
+Manipur University,"Imphal, Manipur",Public,2.3,17,90 K,4.94 L
+"Grace Bible College, Churachandpur","Churachandpur, Manipur",Private,N/A,1,2.23 L,4.98 L
+"United College, Chandel","Chandel, Manipur",Private,3.2,2,11 K,69 K
+"DM College of science, [DMCS] Imphal","Imphal, Manipur",Private,2.9,1,2.75 L,7.75 L
+"Imphal College, Imphal","Imphal, Manipur",Private,2.5,2,3.40 L,7.20 L
+"Institute of Bioresources and Sustainable Development, Imphal","Imphal, Manipur",Private,N/A,1,2.23 L,4.08 L
+"Dhanamanjuri College of Teacher Education, Imphal","Imphal, Manipur",Public,N/A,2,6.49 L,
+IIIT Manipur,"Imphal, Manipur",Public,3.9,2,2.06 L,4.08 L
+Dhanamanjuri University,"Imphal, Manipur",,N/A,10,2 K,
+North Eastern Hill University (NEHU),"Shillong, Meghalaya",Public,3.2,17,80 K,1.08 L
+NIT Meghalaya,"Shillong, Meghalaya",Public,3.8,4,48 K,50 K
+IIM Shillong,"Shillong, Meghalaya",Public,4.1,4,74 K,3.32 L
+USTM - University of Science & Technology Meghalaya,"Ri Bhoi, Meghalaya",Private,3.1,17,30 K,9.60 L
+"National Institute of Fashion Technology, Shillong","Shillong, Meghalaya",Public,N/A,2,432,12 L
+Martin Luther Christian University,"Shillong, Meghalaya",Private,2.4,14,1 K,9.08 L
+CMJ University,"Ri Bhoi, Meghalaya",Private,2.3,37,12 K,9.50 L
+"Mahatma Gandhi University, Tura- Khanapara Campus","Ri Bhoi, Meghalaya",Public,4.1,13,4.80 L,4.80 L
+"University of Technology and Management, Meghalaya","Shillong, Meghalaya",Private,3.0,2,60 K,5 L
+"The ICFAI University, Meghalaya","Shillong, Meghalaya",Private,N/A,7,29 K,5.33 L
+IHM Shillong,"Shillong, Meghalaya",Public,N/A,1,30 K,33.61 L
+William Carey University,"Shillong, Meghalaya",Private,2.8,18,30 K,4.44 L
+NEIGRIHMS,"Shillong, Meghalaya",Autonomous/Public,N/A,6,36 K,61 K
+"St. Anthonys College, Shillong","Shillong, Meghalaya",Public,3.7,8,1.03 L,1.36 L
+St. Mary'S College,"Shillong, Meghalaya",Private,4.1,4,33 K,74 K
+Sankardev College,"Shillong, Meghalaya",Public,3.5,2,52 K,2 L
+Synod College,"Shillong, Meghalaya",Private,3.8,4,10.83 L,
+Umshyrpi College,"Shillong, Meghalaya",Private,4.9,2,56 K,
+"Union Christian College, Shillong","Shillong, Meghalaya",Private,2.6,4,30 K,76 K
+"Harding Theological College, West Garo Hills","Tura, Meghalaya",Private,N/A,1,8.50 L,
+"College of Teacher Education,Shillong","Shillong, Meghalaya",Private,N/A,1,1.14 L,3.54 L
+"Montfort Centre for Education, West Garo Hills","West Garo Hills, Meghalaya",Private,N/A,1,12 K,41 K
+"English and Foreign Languages University, Shillong","Shillong, Meghalaya",Public,N/A,5,59 K,59 K
+"Shillong Commerce College, Shillong","Shillong, Meghalaya",Public,2.8,2,1.73 L,
+Shillong College,"Shillong, Meghalaya",Public,N/A,5,1.83 L,3.67 L
+"The ICFAI University, Mizoram","Aizawl, Mizoram",Public,1.1,7,33 K,51 K
+"Government Polytechnic College, Lunglei","Lunglei, Mizoram",Private,N/A,1,45 K,5 L
+Government Saiha College,"Saiha, Mizoram",Public,N/A,3,400,21 K
+Government Aizawl West College,"Aizawl, Mizoram",Public,N/A,1,14.93 L,
+Government Zirtiri Residential Science College,"Aizawl, Mizoram",Private,2.6,2,1.45 L,
+"Aizawl Theological College, Aizawl","Aizawl, Mizoram",Private,N/A,3,45 K,5 L
+Pachhunga University College,"Aizawl, Mizoram",Public,3.3,3,28 K,75 K
+Mizoram University,"Aizawl, Mizoram",Public,3.5,7,10 K,25 K
+NIT Mizoram,"Aizawl, Mizoram",Public,N/A,3,30 K,1.25 L
+Nagaland University Kohima,"Kohima, Nagaland",Public,3.3,8,3 K,88 K
